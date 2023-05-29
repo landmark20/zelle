@@ -3,3 +3,4 @@
 This is the file for transfer sent for zelle
 echo "This is a first payment"
 read "payment"
+echo "congratulations your payment has been accepted"
